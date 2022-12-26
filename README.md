@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simanta1001
 - 👀 I’m interested in machine learning and AI.
 - 🌱 I’m currently learning vue js and js.
-- 💞️ I’m looking to collaborate on anything related to AI.
+- 💞️ I’m looking to collaborate on anything related to computer science.
 - 📫 Reach me at ghimiresimanta@gmail.com 
 
 <!---
