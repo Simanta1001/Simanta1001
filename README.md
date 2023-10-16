@@ -1,11 +1,9 @@
 
+<h1 align="center">Hi 👋, I'm Simanta Ghimire</h1>
+<h3 align="center">A passionate beginner developer trying to expand the knowledge.</h3>
 
-### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=F8476AF8&multiline=true&width=900&height=110&lines=Hi%2C+I'm+Simanta+Ghimire%2C+passionate+student+developer+;on+a+journey+to+turn+lines+of+code+into+meaningful+;solutions." alt="Typing SVG" </a>/></a>
-</div>  
-  
 
-- 👋 Hi, I’m @Simanta1001
--👀 I’m interested in machine learning and AI.
+- 👀 I’m interested in problem-solving, application development, and cybersecurity.
 - 💞️ I’m looking to collaborate on fields related to programming.
 - 📫 Reach me at ghimiresimanta@gmail.com   
   
